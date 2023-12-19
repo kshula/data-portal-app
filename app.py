@@ -11,7 +11,7 @@ def home():
     st.write("Welcome to the Data Portal App. Explore, visualize, and download data!")
 
     st.write("""
-    This app allows you to explore and analyze data from various sources. Here are the key features:
+    This app allows you to explore and analyze Zambian data from various sources. Here are the key features:
 
     1. **World Bank Page:** Explore data from the World Bank and visualize variables over time.
 
