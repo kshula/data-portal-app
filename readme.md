@@ -1,5 +1,7 @@
 # Data Portal App
-![Alt text](images\portal.jpg "Data Portal AI")
+
+![Alt text](images/portal.jpg)
+
 Welcome to the Data Portal App! This Streamlit web application provides a user-friendly interface to explore, visualize, and download data from various sources. Whether you're interested in World Bank indicators, Bank of Zambia statistics, CSO inflation data, or Stock Exchange information, this app has you covered.
 
 ## Features
