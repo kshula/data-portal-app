@@ -7,8 +7,8 @@ from portal import get_all_variables_from_db, get_variables_for_data_source, loa
 
 # Home Page
 def home():
-    st.title("Data Portal App")
-    st.write("Welcome to the Data Portal App. Explore, visualize, and download data!")
+    st.title("FWAYA Data Portal App")
+    st.write("Welcome to the FWAYA Data Portal App. Explore, visualize, and download data!")
 
     st.write("""
     This app allows you to explore and analyze Zambian data from various sources. Here are the key features:
