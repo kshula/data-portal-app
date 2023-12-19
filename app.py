@@ -28,7 +28,24 @@ def home():
     Explore the various pages using the sidebar navigation. If you have any questions or need assistance, feel free to reach out!
 
     Happy exploring!
+
+     ---
+
+    **About the Creator:**
+    
+    Hi, I'm Kampamba Shula, the creator of this app. Sofware Developer and Consultant.
+
+    **Contact Information:**
+    
+    Feel free to reach out if you have any questions, feedback, or suggestions:
+    
+    - Email: kampambashula@gmail.com
+    - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kampamba-shula-03946633/)
+    - GitHub: [GitHub Profile](https://github.com/kshula)
+    
     """)
+
+
 
     # Search Bar
     search_query = st.text_input("Search for a variable:")
